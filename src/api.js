@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://traffic-signal-api.onrender.com";
 
 export async function predictClearance(inputs) {
   const res = await fetch(`${API_BASE}/predict/clearance`, {
