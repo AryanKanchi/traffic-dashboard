@@ -15,6 +15,10 @@ A React dashboard for visualising ML predictions from the [Traffic Signal Intell
 
 ## 🚀 Getting Started
 
+## 🌐 Live Demo
+Live API:       https://traffic-signal-api.onrender.com/docs
+Live Dashboard: https://traffic-dashboard-git-main-aryan-ka-projects.vercel.app
+
 ### 1. Start the backend first
 ```bash
 # In your traffic-signal-api folder
